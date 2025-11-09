@@ -7,3 +7,10 @@ Scrapes JavaScript-rendered web pages using Selenium, parses content with Beauti
 
 ## Quick Start
 1. Clone repo:
+2. Create virtualenv & install dependencies:
+3. Start Redis (Docker recommended):
+4. Copy `.env.example` to `.env` and adjust variables if needed
+5. Initialize database:
+6. Run a one-off scrape & export CSV:
+7. ## Author
+Aditya Singh
