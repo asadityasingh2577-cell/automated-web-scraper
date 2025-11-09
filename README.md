@@ -12,5 +12,6 @@ Scrapes JavaScript-rendered web pages using Selenium, parses content with Beauti
 4. Copy `.env.example` to `.env` and adjust variables if needed
 5. Initialize database:
 6. Run a one-off scrape & export CSV:
-7. ## Author
+7. Start periodic scraping:
+8. ## Author
 Aditya Singh
